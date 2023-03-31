@@ -1,3 +1,6 @@
 body {
-    background: rgb(36, 34, 34);
+    background-image: url(IMAGES/stratbg.jpg);
+    background-size: cover;
+    background-color: rgb(30, 28, 28);
+    color: whitesmoke;
 }
