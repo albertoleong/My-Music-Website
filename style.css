@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(19, 18, 18);
+    background-color: rgb(9, 8, 8);
     color: whitesmoke;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -10,6 +10,13 @@ nav {
     align-items: center;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+img {
+    display: block;
+    max-width: 500px;
+    border: 1px solid #ddd;
+    border-radius: 45%;
 }
 
 p {
