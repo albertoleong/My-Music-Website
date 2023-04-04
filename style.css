@@ -1,18 +1,11 @@
-body {
-    background-image: ;
+* {
     background-color: rgb(19, 18, 18);
     color: whitesmoke;
 }
 
-h1 {
-    text-align: center;
-}
-h2 {
-    text-align: center;
-}
 
 p {
-    text-align: center;
-    padding-left: 800px;
-    padding-right: 200px;
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 800px;
 }
